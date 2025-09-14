@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# sbt/scala build
+**/target/
+**/project/target/
+.metals/
+.bloop/
+.idea/
+.vscode/
