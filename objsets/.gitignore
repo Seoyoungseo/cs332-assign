@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# sbt / Scala
+target/
+lib_managed/
+project/target/
+project/project/
+*/streams/
+
+# IDE & tools
+.bsp/
+.metals/
+.idea/
+*.iml
+.vscode/
+
+# classes
+*.class
